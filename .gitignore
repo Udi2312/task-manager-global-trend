@@ -1,0 +1,10 @@
+
+*.md
+!README.md
+
+node_modules/
+.env
+*.log
+.DS_Store
+dist/
+.next/
